@@ -1,0 +1,14 @@
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\bin\Debug\net9.0\SalesDataAnalyzer.exe
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\bin\Debug\net9.0\SalesDataAnalyzer.deps.json
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\bin\Debug\net9.0\SalesDataAnalyzer.runtimeconfig.json
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\bin\Debug\net9.0\SalesDataAnalyzer.dll
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\bin\Debug\net9.0\SalesDataAnalyzer.pdb
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\obj\Debug\net9.0\SalesDataAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\obj\Debug\net9.0\SalesDataAnalyzer.AssemblyInfoInputs.cache
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\obj\Debug\net9.0\SalesDataAnalyzer.AssemblyInfo.cs
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\obj\Debug\net9.0\SalesDataAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\obj\Debug\net9.0\SalesDataAnalyzer.dll
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\obj\Debug\net9.0\refint\SalesDataAnalyzer.dll
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\obj\Debug\net9.0\SalesDataAnalyzer.pdb
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\obj\Debug\net9.0\SalesDataAnalyzer.genruntimeconfig.cache
+C:\Users\yaohx\OneDrive\Documents\IT 2040\SalesDataAnalyzer\obj\Debug\net9.0\ref\SalesDataAnalyzer.dll

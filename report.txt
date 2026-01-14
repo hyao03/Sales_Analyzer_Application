@@ -1,0 +1,300 @@
+******************************************
+Total Profit in Dataset
+******************************************
+Total Profit: $3,952,227,929.89
+
+******************************************
+Unique Item Type
+******************************************
+Office Supplies
+Beverages
+Vegetables
+Household
+Baby Food
+Meat
+Cereal
+Clothes
+Snacks
+Personal Care
+Cosmetics
+Fruits
+
+******************************************
+Total Sales per Item Type
+******************************************
+Baby Food: $1,071,411,691.68
+Beverages: $185,550,188.20
+Cereal: $864,638,145.80
+Clothes: $475,624,808.00
+Cosmetics: $1,793,958,388.00
+Fruits: $37,841,742.93
+Household: $2,903,536,250.85
+Meat: $1,681,396,187.10
+Office Supplies: $2,683,156,468.23
+Personal Care: $359,843,050.71
+Snacks: $629,053,924.98
+Vegetables: $652,921,377.88
+
+******************************************
+Total Sales per Country
+******************************************
+Afghanistan: $80,540,712.55
+Albania: $66,102,811.56
+Algeria: $70,033,847.68
+Andorra: $59,876,814.59
+Angola: $60,047,751.56
+Antigua and Barbuda : $54,756,330.55
+Armenia: $47,387,034.68
+Australia: $63,992,292.00
+Austria: $83,777,405.29
+Azerbaijan: $84,146,526.78
+Bahrain: $99,297,049.69
+Bangladesh: $97,386,350.24
+Barbados: $62,929,723.87
+Belarus: $58,489,321.47
+Belgium: $66,866,265.32
+Belize: $55,002,562.19
+Benin: $79,898,730.14
+Bhutan: $71,951,180.79
+Bosnia and Herzegovina: $79,635,341.16
+Botswana: $96,713,035.29
+Brunei: $75,498,712.32
+Bulgaria: $72,903,397.07
+Burkina Faso: $89,736,452.97
+Burundi: $85,726,643.86
+Cambodia: $82,735,648.84
+Cameroon: $63,915,909.94
+Canada: $94,086,460.78
+Cape Verde: $47,056,031.02
+Central African Republic: $56,332,881.80
+Chad: $74,185,245.16
+China: $78,111,373.06
+Comoros: $59,678,417.69
+Costa Rica: $61,082,251.29
+Cote d'Ivoire: $52,725,319.82
+Croatia: $86,702,399.03
+Cuba: $60,681,572.71
+Cyprus: $75,115,413.90
+Czech Republic: $65,124,799.13
+Democratic Republic of the Congo: $65,163,930.98
+Denmark: $82,706,967.68
+Djibouti: $59,323,683.80
+Dominica: $71,269,627.23
+Dominican Republic: $61,548,913.75
+East Timor: $45,480,531.43
+Egypt: $74,902,608.42
+El Salvador: $93,010,570.36
+Equatorial Guinea: $61,967,068.40
+Eritrea: $67,792,317.90
+Estonia: $63,347,997.55
+Ethiopia: $94,885,700.50
+Federated States of Micronesia: $75,379,935.03
+Fiji: $77,326,387.74
+Finland: $85,732,237.82
+France: $69,990,056.31
+Gabon: $60,376,646.25
+Georgia: $71,424,183.14
+Germany: $87,421,968.36
+Ghana: $71,016,149.56
+Greece: $92,725,566.53
+Greenland: $72,377,859.28
+Grenada: $107,335,742.59
+Guatemala: $85,361,610.72
+Guinea: $76,042,082.11
+Guinea-Bissau: $62,298,088.48
+Haiti: $72,419,688.56
+Honduras: $85,838,645.75
+Hungary: $54,257,481.55
+Iceland: $92,873,623.15
+India: $88,819,981.65
+Indonesia: $58,535,377.57
+Iran: $87,967,121.82
+Iraq: $61,239,993.32
+Ireland: $86,650,226.48
+Israel: $71,119,503.76
+Italy: $47,237,488.82
+Jamaica: $67,288,218.82
+Japan: $63,128,744.17
+Jordan: $75,283,554.30
+Kazakhstan: $77,176,541.73
+Kenya: $62,740,696.54
+Kiribati: $99,076,325.14
+Kosovo: $74,264,904.07
+Kuwait: $93,001,071.16
+Kyrgyzstan: $81,584,057.16
+Laos: $68,493,987.10
+Latvia: $59,003,791.26
+Lebanon: $73,559,830.83
+Lesotho: $59,885,346.38
+Liberia: $49,585,818.34
+Libya: $62,327,050.17
+Liechtenstein: $84,914,910.08
+Lithuania: $91,402,563.24
+Luxembourg: $74,988,957.57
+Macedonia: $63,729,933.95
+Madagascar: $75,049,012.87
+Malawi: $97,049,264.67
+Malaysia: $46,199,927.93
+Maldives: $72,808,630.32
+Mali: $44,640,992.08
+Malta: $48,557,572.79
+Marshall Islands: $60,826,899.81
+Mauritania: $66,027,093.24
+Mauritius : $64,343,394.12
+Mexico: $84,720,086.95
+Moldova : $78,922,503.96
+Monaco: $64,592,842.58
+Mongolia: $86,316,600.89
+Montenegro: $74,833,764.86
+Morocco: $85,428,776.47
+Mozambique: $66,148,383.78
+Myanmar: $69,280,742.59
+Namibia: $53,362,044.83
+Nauru: $62,131,825.99
+Nepal: $64,454,647.78
+Netherlands: $76,639,362.26
+New Zealand: $86,598,965.58
+Nicaragua: $66,917,471.29
+Niger: $77,992,115.57
+Nigeria: $90,524,916.20
+North Korea: $67,420,014.31
+Norway: $70,063,505.03
+Oman: $59,061,743.78
+Pakistan: $74,817,592.70
+Palau: $80,558,171.55
+Panama: $70,029,353.19
+Papua New Guinea: $73,065,269.31
+Philippines: $82,084,348.00
+Poland: $80,558,315.63
+Portugal: $80,361,613.07
+Qatar: $91,530,113.67
+Republic of the Congo: $51,060,710.35
+Romania: $72,428,159.11
+Russia: $86,731,070.02
+Rwanda: $96,621,926.20
+Saint Kitts and Nevis : $82,509,572.38
+Saint Lucia: $65,518,506.05
+Saint Vincent and the Grenadines: $58,796,054.67
+Samoa : $58,467,092.04
+San Marino: $56,292,302.66
+Sao Tome and Principe: $50,455,071.59
+Saudi Arabia: $75,076,915.69
+Senegal: $82,210,049.01
+Serbia: $78,589,955.15
+Seychelles : $74,523,359.66
+Sierra Leone: $74,607,282.51
+Singapore: $45,607,720.87
+Slovakia: $77,997,589.35
+Slovenia: $72,965,999.12
+Solomon Islands: $63,118,039.76
+Somalia: $71,256,535.08
+South Africa: $60,166,354.38
+South Korea: $88,488,084.46
+South Sudan: $76,545,108.64
+Spain: $73,136,560.25
+Sri Lanka: $67,153,823.13
+Sudan: $84,710,538.74
+Swaziland: $82,339,626.64
+Sweden: $67,842,937.82
+Switzerland: $67,553,314.21
+Syria: $45,801,611.28
+Taiwan: $113,106,945.67
+Tajikistan: $41,976,730.89
+Tanzania: $67,562,017.47
+Thailand: $64,483,068.27
+The Bahamas: $56,383,761.88
+The Gambia: $62,215,122.88
+Togo: $66,713,933.19
+Tonga: $58,088,462.47
+Trinidad and Tobago: $56,849,534.66
+Tunisia : $91,574,722.24
+Turkey: $47,938,550.85
+Turkmenistan: $77,618,666.02
+Tuvalu: $75,974,118.80
+Uganda: $83,406,438.93
+Ukraine: $70,192,083.85
+United Arab Emirates: $84,043,676.96
+United Kingdom: $82,324,606.89
+United States of America: $84,168,035.99
+Uzbekistan: $86,039,511.02
+Vanuatu: $69,717,920.37
+Vatican City: $61,515,063.42
+Vietnam: $88,844,159.24
+Yemen: $55,684,388.46
+Zambia: $82,694,260.99
+Zimbabwe: $62,492,808.33
+
+******************************************
+Orders with the Highest Sale
+******************************************
+351961028: $6,680,026.92
+182281482: $6,680,026.92
+
+******************************************
+Total Sales per Year
+******************************************
+2010: $1,586,297,835.53
+2011: $1,837,629,136.68
+2012: $1,702,357,977.05
+2013: $1,798,685,999.92
+2014: $1,852,190,132.67
+2015: $1,871,368,118.26
+2016: $1,708,702,924.77
+2017: $981,700,099.48
+
+******************************************
+Total Sales per Channel
+******************************************
+Offline: $6,681,085,115.91
+Online: $6,657,847,108.45
+
+******************************************
+Total Orders per Priority Type
+******************************************
+C: 2555
+H: 2503
+L: 2494
+M: 2448
+
+******************************************
+Average Sales per Item Type
+******************************************
+Baby Food: $1,272,460.44
+Beverages: $237,276.46
+Cereal: $1,048,046.24
+Clothes: $545,441.29
+Cosmetics: $2,151,029.24
+Fruits: $47,599.68
+Household: $3,318,327.14
+Meat: $2,107,012.77
+Office Supplies: $3,205,682.76
+Personal Care: $405,228.66
+Snacks: $770,899.42
+Vegetables: $781,006.43
+
+******************************************
+Total Orders per Region
+******************************************
+Asia: $7367752
+Australia and Oceania: $3974455
+Central America and the Caribbean: $5177603
+Europe: $12963425
+Middle East and North Africa: $6466901
+North America: $1155272
+Sub-Saharan Africa: $12931203
+
+******************************************
+Region Orders Most Beverages
+******************************************
+Sub-Saharan Africa: 1118976
+
+******************************************
+Baby Food Sales per Region
+******************************************
+Asia: $169,881,436.88
+Australia and Oceania: $86,450,316.72
+Central America and the Caribbean: $87,411,701.20
+Europe: $257,978,820.16
+Middle East and North Africa: $135,856,952.64
+North America: $32,981,920.72
+Sub-Saharan Africa: $300,850,543.36
